@@ -7,20 +7,16 @@
 
 ---
 
-## Team Members
-
-* **[Leader Name]**
-* **[Member Name]**
-* **[Member Name]**
-* **[Member Name]**
-* **[Member Name]**
-
+##  Team Members
+- **Heba Adel Tawfik (Team Leader)**  
+- **Shahd Khaled Muhammed**  
+- **Maryam Sabry Mahmoud**  
+- **Abdullah Taha Ragab**  
+- **Mohamed Magdy Mostafa**
 ---
+##  Instructor
 
-## Instructor
-
-**[Instructor Name]**
-
+### **Sarah Meklad**
 ---
 
 ## Project Overview
