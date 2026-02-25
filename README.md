@@ -8,11 +8,11 @@
 ---
 
 ##  Team Members
-- **Heba Adel Tawfik (Team Leader)**  
+- **Mohamed Magdy Mostafa (Team Leader)**  
 - **Shahd Khaled Muhammed**  
 - **Maryam Sabry Mahmoud**  
 - **Abdullah Taha Ragab**  
-- **Mohamed Magdy Mostafa**
+- **Heba Adel Tawfik**
 ---
 ##  Instructor
 
