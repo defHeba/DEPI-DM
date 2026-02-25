@@ -3,7 +3,7 @@
 
 # Dress Nada
 
-### Affordable Event Dresses for the Modern Young Woman
+### Affordable Event Dresses
 
 ---
 
